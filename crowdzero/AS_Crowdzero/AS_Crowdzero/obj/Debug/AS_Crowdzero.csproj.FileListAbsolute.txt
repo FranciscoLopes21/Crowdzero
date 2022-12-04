@@ -1,0 +1,45 @@
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe.config
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.pdb
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csprojAssemblyReference.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Properties.Resources.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.GenerateResource.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.CoreCompileInputs.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.pdb
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Crowdzero.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Local.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Utilizador_APP.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Utilizador_BO.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Ver_Utilizadores.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Report.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csprojAssemblyReference.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Local.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Report.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Crowdzero.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Utilizador_BO.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Properties.Resources.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Ver_Utilizadores.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.GenerateResource.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.CoreCompileInputs.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.pdb
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe.config
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.pdb
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Nova pasta (2)\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Utilizador.resources
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csprojAssemblyReference.cache
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Criar_Utilizador.resources
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Crowdzero.resources
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Properties.Resources.resources
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.Frm_Ver_Utilizadores.resources
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.GenerateResource.cache
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csproj.CoreCompileInputs.cache
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.exe
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.pdb
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe.config
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.exe
+C:\Users\JCarlos\Desktop\AS_Crowdzero\AS_Crowdzero\bin\Debug\AS_Crowdzero.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Escola\Uni\2ºAno\1ºSemestre\AS\15247-18705(Projeto_2020-2021)\crowdzero\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Escola\Uni\2ºAno\1ºSemestre\AS\15247-18705(Projeto_2020-2021)\crowdzero\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.exe
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Escola\Uni\2ºAno\1ºSemestre\AS\15247-18705(Projeto_2020-2021)\crowdzero\AS_Crowdzero\AS_Crowdzero\obj\Debug\AS_Crowdzero.pdb
